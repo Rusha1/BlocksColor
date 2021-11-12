@@ -1,4 +1,4 @@
-# hashex.blocks__color
+Blocks Color
 
 Были решены задачи на html, bootstrap 5, css:
 
